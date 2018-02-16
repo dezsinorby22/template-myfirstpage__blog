@@ -1,0 +1,102 @@
+body
+{
+    
+    margin: auto;
+   
+    font-family: Verdane, Geneva, sans-serif;
+    background-color: black;
+    color: #fff;
+    font-size: 25px;
+    
+}
+nav {
+    margin-top: 30px;
+    margin: auto;
+    width: 600px;
+    
+}
+
+
+.menupont
+{
+     display: inline-block;
+    border-bottom: 1px solid white;
+    font-size: 20px;
+    text-align: center;
+    padding: 15px 15px;
+    
+   
+    
+}
+footer
+{
+    padding: 20px 20px;
+    background-color: #000d1a;
+    text-align: center;
+    height: 100px;
+    
+    
+    
+}
+.container
+{
+    background-color: #333333;
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+     width: 60%;
+    
+    
+}
+
+.kep1
+{
+    
+    margin: 0 auto;
+    color: white;
+    margin-top: 40px; 
+    
+    
+    
+}
+.kep2
+{
+   
+   margin: 0 auto;
+   color: white;
+   margin-top: 40px; 
+    
+    
+}
+.kep3
+{
+  
+   margin: 0 auto;
+   color: white;
+   margin-top: -25px;
+  
+}
+
+p
+{
+    text-align: left;
+}
+h1
+{
+    text-align: left;
+}
+
+h3
+{
+    text-align: left
+}
+time .far fa-clock
+{
+    text-align: left
+}
+.p1
+{
+    margin-top: -30px;
+    color: grey
+        
+}
